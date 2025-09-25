@@ -1,2 +1,3 @@
-# api-bilheteria-de-cinema
-Um projeto pessoal que simula um sistema de bilheteria de cinema. O projeto consiste em um CRUD (Create, Read, Update, Delete) básico, desenvolvido com a linguagem Java e o framework Spring Boot. Para o armazenamento dos dados, foi utilizado o banco de dados PostgreSQL.
+API para Bilheteria de Cinema
+
+Este projeto consiste no desenvolvimento de uma API RESTful para um sistema de bilheteria de cinema. Utilizando Java com o framework Spring Boot, a aplicação implementa um CRUD básico para gerenciar entidades como filmes e sessões. O PostgreSQL foi escolhido como banco de dados para a persistência dos dados.
